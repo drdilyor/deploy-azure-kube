@@ -1,6 +1,3 @@
-# Deployments to AKS (Azure Kubernetes Service)
+# Deploy django to heroku
 
-This repo containse my deployments to AKS for different frameworks and
-languages. Currently these branches are available:
-
-* `django`
+Deployment was available at http://20.62.217.201
